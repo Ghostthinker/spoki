@@ -1,0 +1,12 @@
+credentials:
+  usernames:
+    demo:
+      email: user@example.com
+      first_name: Demo
+      last_name: User
+      password: password # This will be hashed automatically
+
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: spoki

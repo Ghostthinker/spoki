@@ -1,0 +1,70 @@
+/* styles.css */
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+    color: inherit;
+}
+
+body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #1b1b1b;
+
+}
+
+
+
+.st-emotion-cache-bbedum {
+    background-color: #f9f9f9;
+
+}
+
+[data-testid="stSidebarUserContent"] button:focus,
+[data-testid="stSidebarUserContent"] button {
+    display: inline-flex;
+    width: fit-content;
+    padding: 10px 20px 10px 10px;
+    color: #fff !important;
+    font-weight: 700;
+    text-decoration: none !important;
+    border-radius: 1rem;
+    background: #fcb131;
+    text-align: left !important;
+    margin: 5px 10px 5px 0;
+    box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.07000000000000001);
+    align-items: center;
+    min-width: 140px;
+}
+
+[data-testid="stSidebarUserContent"] button:hover 
+{
+    color: #333333 !important;
+    text-decoration: none;
+}
+
+/* styles.css */
+.custom-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.custom-header img {
+    width: 100px; /* Adjust the size of the logo */
+}
+
+.custom-header h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+.intro-text {
+ 
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 1rem;
+}

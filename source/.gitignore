@@ -1,0 +1,10 @@
+__pycache__
+venv
+chat_history.json
+data/chroma
+data/chromaGPT
+.idea/
+start.local.sh
+.env
+.streamlit/config.toml
+auth.yaml

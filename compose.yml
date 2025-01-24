@@ -1,0 +1,20 @@
+services:
+  streamlit-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "${NGINX_PROXY_PORT:-9308}:9000"
+    restart: always
+    env_file: 
+      - source/.env
+    volumes:
+      - ./data:/app/data
+      - ./source:/app
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:${STREAMLIT_PORT:-9000}"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
