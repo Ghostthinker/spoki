@@ -1,0 +1,262 @@
+﻿Frank Vohle/Ralf Sygusch (aus: Leistungssport 5/2022)
+Kompetenzorientierung und Digitalisierung im Trainerwesen
+Hürdenlauf oder Doppelpass?
+
+
+
+
+Kaum etwas hat die didaktische Lehrarbeit der Trainer- und Übungsleiterbildung aller Fachverbände in den letzten zehn Jahren so herausgefordert wie die Qualitätsentwicklung zur „Digitalisierung“ und zur „Kompetenzorientierung“. Mit Digitalisierung verbinden sich Stichworte wie z. B. Multimedia, Online-Umgebungen und spätestens seit Corona auch Videokonferenzen (Fabinski & Vohle, 2021). Kompetenzorientierung lässt sich durch das gelingende Zusammenspiel von Wissen und Können kennzeichnen, das in der Lernziel-, Aufgaben- und Prüfungskultur zum Tragen kommt und – so das Versprechen – zu einem wirksamen „Outcome“ führen soll (Sygusch et al., 2020).
+Worin bestehen nun die Herausforderungen für Ausbilderinnen und Ausbilder? Digitalisierung und Kompetenzorientierung irritieren die bisherige Lehrarbeit. Erstens betrifft das den gekonnten Umgang mit Bildungstechnologien und digitalen Werkzeugen, was zumindest eine gewisse Technikaffinität voraussetzt (Tool Set). Zweitens geht es um die Planung und Umsetzung von aktivierenden Aufgaben zum Zusammenspiel von Wissen und Können im Blended-Learning-Format (Skill Set). Drittens stehen individuelle Überzeugungen und etablierte Gewohnheiten zum Lehren und Lernen auf dem Prüfstand, beispielsweise indem nicht die Inhaltsauswahl, sondern die konsequente Orientierung an Anforderungssituationen und konkreten Zielen sowie die empathische Lernbegleitung mit personalisiertem Online-Feedback gefragt sind (Mind Set).
+Herausforderungen dieser Art – Tool Set, Skill Set und Mind Set – können verunsichern und fordern dazu auf, aus der Komfortzone herauszutreten. Digitalisierung und Kompetenzorientierung verlangen von Ausbildern (und den lernenden Trainern und Übungsleitern) Offenheit und eine Weiterentwicklung der 
+eigenen Lehrkompetenz. Sportorganisationen müssen die Bedeutung dieses Personalentwicklungsprozesses erkennen und anerkennen. Die gute Botschaft ist: Digitalisierung und Kompetenzorientierung fahren auf gemeinsamen Gleisen, bieten gemeinsam eher einen Doppelpass als einen Hürdenlauf.
+In Ergänzung zu den Beiträgen über digitale Bildung (Vohle, 2017) und zum DOSB-Kompetenzmodell (Sygusch et al., 2020) beleuchten wir in diesem Artikel die Verbindungslinien: den Doppelpass der beiden Ansätze (Vohle, 2022). Unsere leitende These ist, dass Kompetenzorientierung von einer didaktisch motivierten Digitalisierung profitieren und innovative Impulse geben kann.
+
+
+Eingegangen: 25.4.2022
+
+
+
+
+1. Kompetenzorientierung durch Digitalisierung
+In einer zunehmend digitalen Gesellschaft sind Bildungsprozesse in Schule, Hochschule, Arbeitswelt und damit auch im Deutschen Olympischen Sportbund nicht mehr ohne Digitalisierung zu verantworten (vgl. Wendeborn, 2021). Gleichzeitig bleibt Digitalisierung im Sinne einer digitalen Transformation ohne eine inhaltliche und normative Bestimmung „blind“. Bindet man diesen Gedanken in das bestehende DOSB-Kompetenzmodell (Sygusch et al., 2020) ein, dann spielt Digitalisierung mehr oder weniger auf allen Ebenen des Kompetenzdreiecks (Abbildung 1) eine Rolle bzw. muss von jedem Eckpunkt mitgedacht werden: 
+•        Bei der Lernzielkultur stehen die Anforderungssituationen von Trainern im Zentrum. Sicher liegen die allermeisten Anforderungssituationen des Trainierens und Coachens im Präsenzkontakt in der Sporthalle oder auf dem Sportplatz (Sygusch et al., 2020a, S. 44). Anforderungssituationen von Trainern integrieren aber auch heute schon digitale Möglichkeiten, beispielsweise bei der Trainingsvorbereitung1 oder bei der Analyse und Auswertung von Trainings- und Wettkampfdaten. 
+•        Bei der Lehr-Lernkultur2  steht das Aufgabendesign im Zentrum. Aufgaben setzen Lernziele konkret in Lernaktivitäten um, sie bereiten aber auch auf Prüfungssituationen vor. Beide Perspektiven werden durch digitale Möglichkeiten erheblich erweitert (vgl. Abschnitt 2). 
+•        Bei der Prüfungskultur steht das Assessment, also das Bewerten (und Reflektieren) von Kompetenzen im weitesten Sinne, im Zentrum. Auch hier ergeben sich durch die Digitalisierung neue Chancen zur Feststellung der Kompetenzentwicklung (z. B. Portfolioarbeit) wie auch zur Überprüfung, inwieweit Lernziele abschließend erreicht wurden. 
+
+
+Die Erläuterung aller drei Beziehungen würde den Umfang eines Artikels sprengen. Wir haben daher entschieden, uns zunächst auf die Lehr-Lernkultur zu konzentrieren (Abbildung 2). Hier stehen Kompetenzorientierung und Digitalisierung in einem engen Austausch – sie spielen quasi Doppelpass. Dieser Doppelpass lässt sich mit folgenden Fragen konkretisieren: 
+1.        Welchen Beitrag bieten digitale Formate wie „Blended Learning“, um die Aktivitätsschritte des Kompetenzerwerbs und verschiedene Lernorte zu verbinden? Wie kann „Blended Learning“ zum Zusammenspiel von Wissen und Können beitragen?
+2.        Welche Möglichkeiten liefern digitale Werkzeuge, um die lernenden Trainer in der Ausbildung zur selbstständigen kognitiven Auseinandersetzung mit Aufgaben anzuregen, beispielsweise zum Erkunden und Experimenten, Analysieren, Vergleichen und kooperativen Problemlösen? 
+3.        Wie können digitale Vernetzung und Transparenz eine digitale Lehrhaltung der Ausbilder anstoßen, welche es wahrscheinlicher macht, dass kompetenzorientierte Lehr-Lernprozesse auch nachhaltig wirken? 
+
+
+2. Zusammenspiel in drei „Doppelpässen“
+Um das Zusammenspiel von Kompetenzorientierung und Digitalisierung weiter auszudifferenzieren, greifen wir die Kategorien Format, Werkzeug und Haltung auf und analysieren deren Verbindung zur Kompetenzorientierung. 
+
+
+Kompetenzorientierung durch digitale Formate (Skill-Set)
+Schon früh haben Mediendidaktiker von einer „didaktischen Innovation durch Blended Learning“ gesprochen (Reinmann, 2003). Innovativ war nicht nur die einfache Mischung aus Online- und Präsenzphasen, sondern auch das Zusammenspiel aus unterschiedlichen Lernphasen und -orten, diversen Methoden und passenden Bildungstechnologien zur Ansteuerung von anspruchsvollen Lernzielen. Ein so verstandenes „Blended Learning“ bildet die qualitative Grundlage, um die von der Kompetenzorientierung geforderten didaktischen Merkmale methodisch umzusetzen. Anhand der Stichworte „Wissen erwerben, Wissen nutzen und Wissen schaffen“ (Abbildung 3) aus dem DOSB-Kompetenzmodell (S. 45 f.) wollen wir das Format „Blended Learning“ an einem Beispiel erläutern: 
+Eine Möglichkeit, Blended Learning zur Kompetenzorientierung in der Trainerbildung umzusetzen, besteht darin, eine dreiphasige Struktur aus Online, Präsenz und Online anzulegen: Die Vorort-Präsenz in der Sportschule kann so um asynchrone – also zeitversetzte – Lernphasen zu Hause bzw. im Heimatverein zeitlich-räumlich gestreckt werden. 
+Ein Lehrgang beginnt beispielsweise mit einer Online-Phase, in der die Teilnehmer asynchron in einem Zeitfenster von z. B. sieben Tagen Aufgaben bearbeiten. Dabei kann zunächst Vorwissen aktiviert werden, indem eigenes Training im Heimatverein per Video aufgenommen und Sequenzen daraus kommentiert werden. In einer nächsten Online-Aufgabe wird dieses Vorwissen mit „objektivem“ Wissen aus der Sportwissenschaft (z. B. über Lehrvideos, Texte, digitale Vorträge) konfrontiert und vernetzt: Wie mache ich es? Was empfehlen mir die Lehrexperten? Wie hängt das eine mit dem anderen zusammen? Genau das ist mit „Wissen erwerben“ gemeint!
+Mit diesem vernetzten Wissen geht es in die Präsenzphase. An der Sportschule fließt das „neue Wissen“ in die Planung konkreter Trainingsmaßnahmen ein, die auf dem Platz praktisch umgesetzt und ausgewertet werden. Die Präsenz ermöglicht hier spontane Reflexionsprozesse, in die auch Feedback und Korrekturen durch Ausbilder und Peers integriert werden.
+In der abschließenden Online-Phase zielen weitere Aufgaben darauf ab, das durch systematische Reflexionsprozesse vernetzte und erprobte Wissen – auch mit Bezug zur Vorphase und ggf. weiteren Erprobungen im Heimatverein – tief zu verankern und damit neues, reflexives Handlungswissen für sich persönlich zu schaffen.
+
+
+Kompetenzorientierung durch digitale Werkzeuge (Tool-Set)
+Bisher haben wir noch nicht konkret von digitalen Medien, Online-Lernumgebungen, digitalen Lernwerkzeugen, kurz: Bildungstechnologien, gesprochen (Niegemann & Weinberger, 2020). Wie der Begriff andeutet, sollen digitale Technologien dann Bildungstechnologien heißen, wenn sie in (non-)formalen Bildungssettings für Lernzwecke eingesetzt werden. Da Bildungstechnologien technische Produkte oder Ergebnis bestimmter Auffassungen zu Lehren und Lernen sind (Lernparadigma), lassen sie sich auch grob in Typen einteilen: So gibt es Bildungstechnologien, die eher der Vermittlung oder dem Transfer von Informationen dienen, und solche, die sich dadurch auszeichnen, dass Nutzer selbst aktiv werden und Inhalte produzieren (user generated content). Diese Ermächtigung des Users zur Inhaltsproduktion korrespondiert mit einem konstruktivistischen Lernverständnis, das vor allem die Eigenaktivität, den sozialen Austausch und die Mitlernenden ins Zentrum stellt (Reinmann & Mandl, 2006). Schaut man sich vor diesem Hintergrund der Idee des „Mitmach-Webs“ aktuelle Bildungstechnologien mit symbolischen, logischen und enaktiven Symbolsystemen an (vgl. Bruner, 1974), dann kann man exemplarisch „Weblogs“ zum Schreiben von Texten, „Concept-Maps“ zum Erstellen von Wissensvisualisierungen und „Videoannotationen“ zur Kommentierung von audio-visuellen Medien nennen. 
+Alle drei digitalen Werkzeuge zeichnen sich durch ihren asynchronen und konstruktionsorientierten Gebrauch aus, man nutzt sie also zeitversetzt und arbeitet auch gemeinschaftlich in der Gruppe an einem Wissensprodukt, weshalb man sie auch als „Cognitive Tools“ bezeichnet (Vohle, 2009). Diese Werkzeuge werden spätestens seit Beginn der Coronapandemie systematisch durch den Einsatz von Videokonferenzsystemen und Whiteboards ergänzt, in denen ein zeitgleicher, d. h. synchroner Austausch zwischen Personen sowie eine visuell gestützte Zusammenarbeit möglich sind (vgl. Abbildung 4). 
+Für die kompetenzorientierte Lehr-Lernkultur sind vor allem die asynchronen Werkzeuge eine „Steilvorlage“, weil sie ganz im Sinne der Merkmale kognitive Aktivierung, Lebensweltbezug und Reflexion (Sygusch et al., 2020b, S. 46-48) eine tiefe Verarbeitung von Information durch selbstständige und kollaborative Wissensproduktion erfordern und damit unterstützen, konkret: 
+•        kognitive Aktivierung: Wenn ich beispielsweise die Aufgabe bekomme, ein Video zum Thema Trainerverhalten nicht nur anzuschauen, sondern an den Stellen im Video aktiv zu kommentieren, an denen ich Fragen habe, eigene Gedanken formulieren oder auch Kritik äußern möchte, dann zwingt das zur eigenständigen und konstruktiven Auseinandersetzung und verhindert einen passiven Konsum des Videos. 
+•        Lebensweltbezug: Wenn ich beispielsweise die Aufgabe bekomme, eigenes Training im Heimatverein per Video aufzunehmen, vorzustellen und zu diskutieren (siehe Beispiel in Abschnitt Skill-Set) oder Trainingsplanungen aus der Präsenzphase im Heimattraining zu erproben (siehe Beispiel Tool-Set unten), digital zu dokumentieren und zu präsentieren, dann ist ein Bezug zum Trainingsalltag (= Lebensweltbezug) kaum enger zu realisieren. 
+•        Reflexion: Wenn ich in den o. g. digitalen Aufgaben mein eigenes Trainerhandeln (Planung, Umsetzung, Auswertung) und eigene Lernfortschritte reflektiere, liegt darin ein wesentlicher Schritt, diese praktischen Erfahrungen zu neuen Erkenntnissen zu verarbeiten. Digitale Werkzeuge (z. B. e-Portfolio, Videokommentierungen, Weblog) erfordern eine solche vertiefte Reflexion und ermöglichen wiederum unmittelbares Feedback durch die Ausbilder.
+
+
+Selbstredend kommt es jetzt darauf an, dieses technologische Potenzial mit intelligenten didaktischen Lernaufgaben zu verbinden, denn welche Wissensinhalte genau aktiviert werden sollen und wie groß die Verarbeitungstiefe ist, hängt entscheidend von der Qualität der Aufgabe ab. Die Aufgabenstellung orientiert sich in der Lehr-Lernkultur des DOSB-Kompetenzmodells (Abbildung 5) an den Aktivitätsschritten zum Wissen Erwerben (Aktivität 0 und 1), Wissen Nutzen (2 bis 4) und Wissen Schaffen (5).
+Wie die Aktivitätsschritte und Merkmale der Lehr-Lernkultur im „Blended Learning-Format“ aufgehen können, wollen wir an einem Beispiel erläutern: 
+Wir greifen das o. g. Blended Learning-Format (Abschnitt Skill-Set) erneut auf. Die Teilnehmer sollen noch vor dem Präsenztreffen in der Sportschule ein Handyvideo ihrer eigenen Lehrpraxis im Heimatverein drehen. Im Wechsel von Online- und Präsenzphasen erhalten Sie folgende Aufgaben zu den einzelnen Aktivitätsschritten (0) bis (4):
+
+
+Onlinephase 1
+(0) Vorwissen aktivieren: 
+Aufgabe: Zeigt über ein dreiminütiges Video auf, (a) welche Trainingsziele in der Einheit verfolgt werden, (b) wie die verbale Instruktion vor der Mannschaft aussieht, und (c) wie die Mannschaft die Übungsform umsetzt. Ladet das Video in die Online-Umgebung (idealerweise durch eine passende App) hoch und kommentiert die entsprechenden Stellen.
+(1) Wissen erwerben: 
+Aufgabe: Befasst euch mit dem hochgeladenen Text zum Thema „Gute Trainingspraxis“. Nutzt diesen theoretischen Input zur erneuten Kommentierung Eurer eigenen Trainingspraxis im vorliegenden Video. Begründet in einem maximal halbseitigen Blogbeitrag euer Verständnis von guter Lehre – berücksichtigt dabei euer Vorverständnis und Erkenntnisse aus dem theoretischen Input (Text). 
+Begleitung: Zu diesen Blogs geben Ausbilder (ggf. auch Peers) digitales Feedback.
+(2) Wissen nutzen – planen: 
+Aufgabe: Entwerft in Tandems einen Trainingsplan auf Grundlage des neuen Fachwissens. Verschriftlicht diesen Plan im Weblog. 
+Anmerkung: Dies macht ggf. synchrone Absprachen erforderlich, die über ein Videokonferenzsystem und einen geteilten Bildschirm organisiert werden. 
+Begleitung: Da die Ausbilder alle Planungsprozesse in der Online-Umgebung mitlesen, können sie nach Bedarf korrigierend eingreifen und Feedback geben.
+
+
+Präsenzphase: 
+(2) Wissen nutzen – planen: 
+Aufgabe: Diskutiert eure Trainingsplanung mit einem (themengleichen) Tandem, gebt euch gegenseitig Feedback und optimiert die geplanten Einheiten. Wählt in zwei Tandems eine Einheit zur gemeinsamen Umsetzung aus. 
+(3) Wissen nutzen - umsetzen: 
+Aufgabe: Erprobt die ausgewählte Trainingseinheit mit der Gesamtgruppe. 
+Begleitung: Ausbilder und Peers geben kurzes Feedback, das von den umsetzenden Doppel-Tandems notiert wird. 
+
+
+Onlinephase 2:
+(4) Wissen nutzen – auswerten: 
+Aufgabe: Führt eure eigenen Eindrücke und die Feedbacks zu eurer Trainingseinheit in einer „Concept-Map“ zusammen und strukturiert diese. Bewertet Stärken, Schwächen und Optimierungsmaßnahmen eurer Trainingseinheit auf Basis des neuen Fachwissens. Vergleicht euren „neuen Kompetenzstand“ mit dem aus der ersten Online-Phase in einem Blog: Inwiefern hat sich meine Lehrkompetenz verändert? Was ist mir warum nicht so gut gelungen? Welche Dimensionen des Trainings haben mich besonders angesprochen? Führt Videokommentare, „Concept-Map“ und Bloginhalte in einem e-Portfolio zusammen und zieht ein Fazit. 
+Begleitung: Die Ausbilder geben ein differenziertes Feedback als Orientierung für die eigenen nächsten Schritte.
+
+
+Kompetenzorientierung durch digitale Haltung (Mind Set)
+Die dritte und letzte Kategorie, die hier im Zuge des Doppelpasses erläutert werden soll, ist die der Haltung. Unter einer digitalen Haltung in der kompetenzorientierten Lehr-Lernkultur verstehen wir, dass Ausbilder zunächst im Blended Learning ein Format (siehe Abschnitt Skill-Set) sehen, welches das Spektrum der kompetenzorientierten Lehr-Lernkultur erheblich erweitert. Überdies ist mit einer digitalen Haltung gemeint, dass Ausbilder die verfügbaren Werkzeuge (siehe Abschnitt Tool-Set) beherrschen und diese zur kognitiven Aktivierung, für Lebensweltbezug und Reflexion in der Lehr-Lernkultur gewinnbringend und innovativ einsetzen. Indem Ausbilder vorleben, wie Lehre und Lernen mit digitalen Formaten und Werkzeugen „funktionieren“ und zum Gelingen eines angezielten Kompetenzerwerbs in der Trainerbildung beitragen können, wirken sie gleichsam als Vorbilder für die Nutzung einer sich sicher weiterhin zügig entwickelnden Digitalisierung auch im Trainings- und Wettkampfalltag der Trainer. 
+Uns ist die digitale Haltung deshalb so wichtig, weil wir aus unserer langjährigen Bildungs- und Forschungserfahrung ersehen haben, wie Einstellung und Haltung das Verständnis von Kompetenzorientierung und Digitalisierung formen! Wer davon überzeugt ist, dass Lernen nach der Transportmetapher, nach dem Nürnberger Trichter funktioniert, der oder die wird sich beim Thema Kompetenzorientierung eher an den guten alten Lehrplänen oder dem eingespielten Foliensatz orientieren. Er oder sie wird auch beim Thema Digitalisierung eher nach solchen Bildungstechnologien greifen, bei denen die Informationsvermittlung oder die automatisierten Erinnerungstests im Zentrum stehen. Eine solche Haltung unterläuft die Chancen, die sich jeweils aus der Kompetenzorientierung und der Digitalisierung ergeben. Eine solche Haltung ignoriert auch das Potenzial des Doppelpasses, wie er hier skizziert wurde. Nun fällt eine positive Haltung bzw. eine lernförderliche Einstellung nicht vom Himmel: Sie sind vielmehr Ergebnis eines Sozialisationsprozesses und sie sind relativ immun gegenüber Veränderungsimpulsen. Aber auch hier bieten Bildungstechnologien und Kompetenzorientierung Chancen für einen Doppelpass. 
+
+
+Haltung heißt auch „digitale Lernbegleitung“
+In dem skizzierten Blended-Learning-Szenario aus den Beispielen 1 und 2 war an mehreren Stellen die Möglichkeit eingebaut, das Lehrende Feedback auf produzierte Leistungen geben: schriftliche Weblogbeiträge, Strukturübersichten in Form von „Concept-Maps“, Videos oder Videokommentare. Diese „Artefakte“ stellen geistige oder handlungsbezogene Produkte der Teilnehmenden dar und wurden in der Regel mit viel Engagement produziert. Entsprechend steigt die Erwartung an die Ausbilder, auf diese persönliche Leistung ein Feedback zu erhalten. Eine solche Online-Begleitung von Lernaktivitäten ist zentral für den Erfolg, zeigt sie doch echtes Interesse der Ausbilder an der Kompetenzentwicklung der Trainer und deren besonderem Fall. Und dieses echte Interesse ist wiederum eine wichtige Bedingung einer Lehr-Haltung, die sich an den Lernenden – hier die angehenden Trainer – orientiert und die man sich auch bei den Trainern und ihrer Arbeit mit den Sportlern langfristig wünscht. Genau ein solcher langfristiger Gedanke wird beispielsweise durch den Einsatz von e-Portfolios verfolgt: Hier geht es darum, den eigenen Lernprozess im Rahmen der Traineraus- und -fortbildung zu dokumentieren, die entstandenen Lernartefakte zu kleinen Lerngeschichten zu verdichten und idealerweise über Jahre in eine Art Meta-Lernprozess zu kommen, der das eigene Lernen (und seine förderlichen wie hinderlichen Bedingungen) nachvollziehbar und „vorzeigbar“ macht. Praktisch relevant wird das z. B. für Prüfungen, wenn Kandidaten der A-Lizenz zeigen sollen, wie sie über mehrere Monate eine Mannschaft entwickelt haben. Ist die e-Portfolioarbeit einmal Teil der formalen Ausbildung, bestehen gute Chancen, dass das e-Portfolio auch für die eigene weitere selbstorganisierte Kompetenzentwicklung – ein so genanntes lebenslanges Lernen – genutzt wird, die mit einem Lehrgang ja nicht enden sollte (Häcker & Lissmann, 2007). 
+
+
+3. Modellbezogene Folgerungen 
+Die Skill- und Tool-Beispiele sollten anschaulich zeigen, wie der Doppelpass aus Kompetenzorientierung und Digitalisierung „übersetzt“ werden kann, und zwar so, dass wir es guten Gewissens auch Lehr-Novizen empfehlen. Bei dieser Übersetzungsleistung haben wir das DOSB-Kompetenzmodell aber auch etwas vereinfacht bzw. starr ausgelegt: Wir haben so getan, als ob die Phasenverteilung immer mit einer Online-Phase beginnen soll, und die Beispiele legen auch nahe, dass diese erste Online-Phase immer mit einem Wissenserwerb, d. h. einer Vorwissensaktivierung und einer Konfrontation mit objektivem Wissen, starten muss. Das ist mitnichten so! Das DOSB-Kompetenzmodell lässt effektiv vielmehr kreativen Spielraum für didaktische Fantasie bei der Wahl der Lernphasen und -orte sowie den primären Wissensprozessen zu (Abbildung 6). 
+Im Beispiel aus dem Beitrag zum DOSB-Kompetenzmodell (Sygusch et al., 2020b, S. 47) erfolgt der Lehrgangsbeginn in einer Präsenzphase folgendermaßen: 
+Präsenzphase:
+(0) Vorwissen aktivieren: Seht euch die Bilder zu Trainingssituationen mit E- und A-Junioren an: Worauf achtest du bei Erklärungen im Kindertraining, worauf beim Halbzeitgespräch mit A-Junioren? 
+(1)  Wissen erwerben: Stellt aus vorhandenen Texten eine Liste von Merkmalen motorischer und psychosozialer Entwicklung von Heranwachsenden zusammen.
+(2) Wissen nutzen – planen: Gestaltet eine Einheit zum altersgerechten Techniktraining. Berücksichtigt ausgewählte Entwicklungsmerkmale bei Trainingszielen, Übungs- und Spielformen.
+ 
+Onlinephase: 
+(3)  Wissen nutzen – umsetzen: Setzt in eurem Heimatverein den Trainingsentwurf um und erstellt dazu ein Video. Zeige, wie du die entworfenen Übungs- oder Spielformen der Mannschaft erklärst 
+(1 min) und wie die Gruppe die Übung umsetzt (4 min).
+(4) Wissen nutzen – auswerten: Kommentiere dein Video zur Trainingseinheit. Begründe Planung und reale Umsetzung von Zielen, Übungs- und Spielformen. Wähle dazu je zwei gelungene bzw. nicht gelungene Beispielsituationen per Videokommentar aus.
+(5)  Wissen schaffen – innovieren: Konzipiere Grundprinzipien für „altersangemessenes Kinder- und Jugendtraining in deinem Verein“ und stelle diese in einem Kurzvortrag (ca. 8 min) den Eltern aller Jugendmannschaften vor. Filme dich dabei und kommentiere das Video an drei Stellen!
+
+
+Die didaktische Fantasie wächst in der Regel mit fortschreitender Expertise und Erfahrung und man tut gut daran, nicht immer dasselbe Muster zu wiederholen, wenn man die eigene Lehrkompetenz ausweiten will (Baumgartner, 2011). 
+
+
+4. Fazit und Ausblick
+Der organisierte Sport und mit ihm die Traineraus- und -weiterbildung stehen vor großen Herausforderungen: Kompetenzorientierung und Digitalisierung sollen im Zuge von Qualitäts-, Effizienz- und Flexibilitätserwartungen ausgebaut werden. Nicht selten geraten diese Zielvorstellungen in Konflikt miteinander, denn nicht jede Qualitätssteigerung ist mit einer Effizienzverbesserung zu haben und nicht jede Flexibilisierung erhöht auch die Qualität. Entsprechend wichtig ist es, ein Primat der Qualität zu setzen und von hier aus zu fragen, welchen Beitrag Kompetenzorientierung und Digitalisierung leisten können. 
+Die Prämisse unseres Artikels war, dass Kompetenzorientierung und Digitalisierung keine zwei unabhängigen „Baustellen“ sind, sondern zwei methodische Ansätze, die sich wechselseitig befruchten und stützen. Wie das konkret aussehen kann, wurde anhand von drei „Doppelpässen“ veranschaulicht: Blended-Learning-Formate verbinden unterschiedliche Wissensprozesse und Lernorte, digitale Werkzeuge fördern kognitive Aktivierung und Reflexionsprozesse und schließlich machen systematisches Feedback und Portfolioarbeit eine offene und wertschätzende Lehr-Haltung wahrscheinlich. 
+Die Traineraus- und -weiterbildung im DOSB wird sich in den kommenden Jahren weiter verändern, dazu hat nicht erst „Corona“ aufgerufen. Eine zentrale Gelingensbedingung für die Umsetzung von „digitaler Kompetenz“ in Landessportbünden und Spitzenverbänden ist Kooperation: Austausch über Implementationsbedingungen zu gelungenen Praxisprojekten, ein auch kontroverser Austausch zu Qualitätskriterien, die die Sportwissenschaft für notwendig und der Sportverband für machbar halten, sowie ein Austausch von und über Aufgaben und Lernressourcen, in denen Kompetenzorientierung und Digitalisierung wirksam verknüpft wurden – um nur drei Beispiele zu nennen. Das Doppelpassspiel ist ein guter Weg, um Kooperation praktisch zu machen. 
+
+
+Literatur
+Baumgartner, P. (2011). Taxonomie von Unterrichtsmethoden. Ein Plädoyer für didaktische Vielfalt. Münster: Waxmann. 
+Bruner, J. S. (1974). Entwurf einer Unterrichtstheorie. Berlin: Schwann. 
+Fabinski, W. & Vohle, F. (2021). Das Beste aus zwei Welten? … oder? Leistungssport, 51 (6), 23-27.
+Häcker, T. & Lissmann, U. (2007). Möglichkeiten und Spannungsfelder der Portfolioarbeit – Perspektiven für Forschung und Praxis. Empirische Pädagogik, 21 (2), 209-239.
+Niegemann, H. & Weinberger, A. (2020). Handbuch Bildungstechnologien. Konzeption und Einsatz digitaler Lernumgebungen. Heidelberg: Springer. 
+Reinmann, G. & Mandl, H. (2006): Unterrichten und Lernumgebungen gestalten. In A. Krapp & B. Weidenmann (Hrsg.), Pädagogische Psychologie. Ein Lehrbuch. (5. Aufl.) (S. 613-658). Weinheim: Beltz PVU. 
+Reinmann-Rothmeier, G. (2003). Didaktische Innovation durch Blended Learning. Bern: Huber-Verlag. 
+Sygusch, R., Muche, M., Liebl, S., Fabinski, W. & Schwind-Gick, G. (2020a). Das DOSB-Kompetenzmodell für die Trainerbildung. Teil 1. Leistungssport, 50 (1), 41-47.
+Sygusch, R., Muche, M., Liebl, S., Fabinski, W. & Schwind-Gick, G. (2020b). Das DOSB-Kompetenzmodell für die Trainerbildung. Teil 2. Leistungssport, 50 (2), 45-49.
+Vohle, F. (2009). Cognitive Tools 2.0 in Trainer Education. International Journal of Sports Science and Coaching, 4 (4), 583-595.
+Vohle, F. (2017). Lernen 5.0. Fünf Essentials im Bereich der digitalen Bildung im Sport. Leistungssport, 47 (3), S. 27-30.
+Vohle, F. (2022). Kompetenzorientierung durch Digitalisierung: Ein „Doppelpass“ mit nachhaltiger Wirkung?! In R. Sygusch, J. Hapke, S. Liebl & C. Töpfer (Hrsg.), Kompetenzorientierung im Sport (S. 504-513). Schorndorf: Hofmann.
+Wendeborn, T. (2021). Digitalisierung in der Sportwissenschaft – Ein Blick über den Tellerrand wagen. In C. Steinberg & B. Bonn (Hrsg.), Digitalisierung und SportWissenschaft (Brennpunkte der Sportwissenschaft 41) (S. 19-38). Baden-Baden: Academia.
+
+
+Korrespondenzadresse
+Dr. Frank Vohle, Dipl.-Sportlehrer, Ghostthinker GmbH, Hunoldsberg 5, 86150 Augsburg
+E-Mail: vohle@ghostthinker.de
+
+
+Fußnoten
+﻿1 Beispielsweise digital verfügbare Trainingstools: www.dfb.de/trainer
+2 Für „Lehr-Lernkultur“ wird im DOSB-Kompetenzmodell noch der Begriff „Aufgabenkultur“ genutzt (z. B. Sygusch et al., 2020a, S. 43). Im laufenden Austausch mit Sportverbänden hat sich „Lehr-Lernkultur“ als praxistauglicher erwiesen.
+________________
+
+
+
+
+Abbildungstexte
+
+
+
+
+Abbildung 1 – Anfang
+﻿Abbildung 1: Digitalisierung im DOSB-Kompetenzmodell
+
+
+Digitale Gesellschaft (Digitalität)
+Lernzielkultur
+Lehr-Lernkultur
+Prüfungskultur
+
+
+Anforderung
+Aufgaben
+Assessment
+
+
+Digitalisierung
+
+
+Abbildung 1 – Ende
+
+
+
+
+Abbildung 2 – Anfang
+
+
+Abbildung 2:  Digitalisierung in der kompetenzorientierten Lehr-Lernkultur
+
+
+Lehr- Lernkultur
+Formate
+Werkzeuge
+Haltung
+Digitalisierung
+
+
+Abbildung 2 – Ende
+
+
+
+
+Abbildung 3 – Anfang
+
+
+Abbildung 3: Kompetenzorientiertes Blended Learning (Basismodell)
+
+
+Zeitlich-räumliche „Streckung“ des Trainings- und Bildungsraums
+
+
+Wissen erwerben – nutzen - schaffen
+
+
+Abbildung 3 – Ende
+
+
+________________
+
+
+
+
+Abbildung 4 – Anfang
+
+
+Abbildung 4: Kompetenzorientierte Lernwerkzeuge
+
+
+Bild  ~  visualisieren
+Beispiel: Concept-Map
+
+
+Videokonferenz
+Whiteboard
+
+
+e-Portfolio
+
+
+Text  ~  schreiben
+Beispiel: Weblog
+
+
+Abbildung 4 – Ende
+
+
+
+
+Abbildung 5: Übersetzungen aus Teil 1 verwenden
+
+
+
+
+Abbildung 6 – Anfang
+
+
+Abbildung 6: Generisches Blended-Learning-Modell auf der Basis des DOSB-Kompetenzmodells
+
+
+Phasen/Orte ~ flexibel wählbar
+
+
+Online oder Präsenz
+
+
+Wissensprozesse ~ flexibel wählbar
+
+
+Wissen erwerben oder Wissen nutzen oder Wissen schaffen
+
+
+Abbildung 6 – Ende
